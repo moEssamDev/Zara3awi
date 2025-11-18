@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between py-5">
       <Link to={"/"}>
-        <h1 className="text-green-700 text-3xl font-bold">Zara3awi</h1>
+        <h1 className="text-green-700 text-3xl font-bold">BLUE PLANT</h1>
       </Link>
 
       <ul className="hidden sm:flex gap-5 text-sm text-gray-700">
