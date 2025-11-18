@@ -27,7 +27,7 @@ const Navbar = () => {
         to={"/login"}
         className="bg-green-700 font-medium text-white px-8 py-2"
       >
-        Logout
+        Login
       </Link>
     </nav>
   );
